@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋 I'm Kutsal Aksu</h1>
+<p align="center">SWE @ UTD | Former SWE Intern at Sixfab</p>
+<p align="center">Building impactful full-stack applications & exploring Cloud + Machine Learning 🚀</p>
 
-## 💫 About Me:
-I'm a third year software engineering student at the University of Texas at Dallas, with a passion for developing impactful full-stack applications.
 
-🌱 Currently exploring cloud computing and machine learning.  
-💻 Interested in full-stack apps that solve real-world problems.  
-🤝 Open to collaboration on open-source and innovative projects.  
+
+
+## 🚀 Featured Projects
+
+- [**ConvoStack**](https://github.com/yourusername/ConvoStack)  
+  Real-time collaboration platform built with **Go + Next.js + PostgreSQL**, supporting <50ms latency & 100+ concurrent users.
+
+- [**ThreatDetectAI**](https://github.com/yourusername/ThreatDetectAI)  
+  AI-powered **threat detection system** using **PyTorch + Flask + AWS**, improving detection speed by 30%.
 
 # 💻 Tech Stack:
 Languages: 
@@ -32,5 +38,6 @@ Libraries/Frameworks:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kutsalaksu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kutsalaksu/)
+
 
