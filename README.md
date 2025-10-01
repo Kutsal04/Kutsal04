@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Kutsal Aksu</h1>
 <p align="center">SWE @ UTD | Former SWE Intern at Sixfab</p>
-<p align="center">Building impactful full-stack applications & exploring Cloud + Machine Learning 🚀</p>
+<p align="center">Building impactful full-stack applications & exploring Cloud + Machine Learning</p>
 
 
 
