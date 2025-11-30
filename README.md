@@ -7,10 +7,10 @@
 
 ## 🚀 Featured Projects
 
-- [**ConvoStack**](https://github.com/yourusername/ConvoStack)  
+- [**ConvoStack**](https://github.com/Kutsal04/ConvoStack)  
   Real-time collaboration platform built with **Go + Next.js + PostgreSQL**, supporting <50ms latency & 100+ concurrent users.
 
-- [**ThreatDetectAI**](https://github.com/yourusername/ThreatDetectAI)  
+- [**ThreatDetectAI**](https://github.com/Kutsal04/ThreatDetectAI)  
   AI-powered **threat detection system** using **PyTorch + Flask + AWS**, improving detection speed by 30%.
 
 # 💻 Tech Stack:
