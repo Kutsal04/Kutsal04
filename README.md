@@ -11,7 +11,7 @@
   Real-time collaboration platform built with **Go + Next.js + PostgreSQL**, supporting <50ms latency & 100+ concurrent users.
 
 - [**ThreatDetectAI**](https://github.com/Kutsal04/ThreatDetectAI)  
-  AI-powered **threat detection system** using **PyTorch + Flask + AWS**, improving detection speed by 30%.
+  AI-powered **threat detection system** using **PyTorch + Flask + AWS**
 
 # 💻 Tech Stack:
 Languages: 
