@@ -30,7 +30,7 @@ Building production AI systems with FastAPI, AWS, LLMs, and cloud-native infrast
 
 | Project | Description |
 |----------|-------------|
-| **AWS Twilio Voice Assistant** | Production AI voice assistant using FastAPI, Amazon Bedrock (Nova Sonic), Twilio, DynamoDB, Docker, and ECS Fargate. <br><br> [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](YOUR_REPO) [![Live Demo](https://img.shields.io/badge/Demo-0A66C2?style=flat-square)](YOUR_DEMO) |
+| **AWS Twilio Voice Assistant** | Production AI voice assistant using FastAPI, Amazon Bedrock (Nova Sonic), Twilio, DynamoDB, Docker, and ECS Fargate. <br><br> [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/Kutsal04/AWSTwilioVoiceAssistant) [![Live Demo](https://img.shields.io/badge/Demo-0A66C2?style=flat-square)](YOUR_DEMO) |
 | **AuditOps** | RAG-powered compliance automation platform reducing SOC 2 audit preparation from 200+ hours to under 40 hours. <br><br> [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](YOUR_REPO) [![Documentation](https://img.shields.io/badge/Documentation-4285F4?style=flat-square)](YOUR_DOCS) |
 
 ---
